@@ -1,0 +1,7 @@
+/pretrained
+/psenet/checkpoint
+/psenet/models
+/psenet/pretrained
+__pycache__/
+results*.csv
+*.pt

@@ -1,0 +1,9 @@
+pyrealsense2
+opencv-python
+ids-peak
+ids-peak-afl
+ids-peak-ipl
+pynput
+#torch-2.3.0-cp310-cp310-linux_aarch64.whl#sha256=71eb050df3161845b73093d6defd0963cb9bdfec77d21c56af59b3cda6e4f309
+#torchvision-0.18.0a0%2B6043bc2-cp310-cp310-linux_aarch64.whl#sha256=28a62174f5604aa111f06c7d61f488250a3c8940fce05bbf245500b90b1d1486
+#/home/neojetson/Projects/NeoLens/Main_PipeLine_Edge/pretrained/resnet50-imagenet.pth
